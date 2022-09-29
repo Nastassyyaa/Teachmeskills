@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         System.out.println("ERROR");
+
+        System.out.println("Another text");
     }
 }
